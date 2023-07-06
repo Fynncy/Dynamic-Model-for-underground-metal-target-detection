@@ -1,1 +1,1 @@
-# Dynamic-Model-for-underground-metal-target-detection
+# Dynamic Model for underground metal target detection
